@@ -37,7 +37,7 @@ with st.sidebar:
     
     st.title("Mouhamadou Bamba Diouf")
     
-    st.header("Technicien superieur en Géomatique , Géographe")
+    st.subheader("Technicien superieur en Géomatique , Géographe")
     st.header("Informations personnelles")
     st.write("""
     Adresse:Dakar,Sénégal
