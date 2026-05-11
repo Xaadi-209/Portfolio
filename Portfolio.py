@@ -1,6 +1,6 @@
 import streamlit as st
 st.title("PROFIL
-st.write(" ")
+st.write("")
 st.write("""
 Technicien superieur en géomatique et en Géographe spécilaisé en hydrologie à l’Université Cheikh Anta Diop de Dakar, je développe des compétences à l’intersection de la cartographie, de l’analyse spatiale et des sciences de l’eau.
 Par ailleurs,je travaille sur l’exploitation des données géographiques pour analyser les phénomènes environnementaux, notamment les risques hydrologiques et la gestion des ressources en eau.
