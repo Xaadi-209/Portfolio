@@ -2,13 +2,13 @@ import streamlit as st
 st.title("PROFIL")
 st.write("")
 st.write("""
-Technicien supérieur en géomatique et géographe spécialisé en  hydrologie(Université Cheikh Anta Diop de Dakar).J'analyse les phenomenes environnementaux
+Technicien supérieur en géomatique et géographe spécialisé en  hydrologie(Université Cheikh Anta Diop de Dakar).J'analyse les phénomenes environnementaux
 notamment les risques hydrologiques et la gestion des ressouces en eau à l'aide d'outils SIG comme QGIS,pour produire des cartes et analyses utiles à
 la prise de  décisions.Je recherche actuellement une opportunité pour mettre en pratique mon expertise sur des projets concrets.
 """)
 st.header("PARCOURS ACADÉMIQUE")
 st.markdown("""
-* Mastere en hydrologie à L'Université Cheikh Anta Diop de Dakar(UCAD)
+* Master en hydrologie à L'Université Cheikh Anta Diop de Dakar(UCAD)
 * Licence en géographie
 * Brevet technicien en géomatique au Centre d'Entrepreneuriat et de Developpement Technique(CEDT LE G15)
 * Baccalauréat
