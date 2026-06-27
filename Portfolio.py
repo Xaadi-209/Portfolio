@@ -30,7 +30,7 @@ st.markdown("""
 * Autocad
 * Analyse spatiale
 * Topographie
-* Collecte de données avec les outils comme GPS,KBOCOLLECTS
+* Collecte de données avec les outils comme GPS,Kbocollect
 """)
 with st.sidebar:
     
