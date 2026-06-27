@@ -2,17 +2,16 @@ import streamlit as st
 st.title("PROFIL")
 st.write("")
 st.write("""
-Technicien superieur en géomatique et en Géographe spécilaisé en hydrologie à l’Université Cheikh Anta Diop de Dakar, je développe des compétences à l’intersection de la cartographie, de l’analyse spatiale et des sciences de l’eau.
-Par ailleurs,je travaille sur l’exploitation des données géographiques pour analyser les phénomènes environnementaux, notamment les risques hydrologiques et la gestion des ressources en eau.
-À travers mes projets, j’utilise des outils SIG comme QGIS pour produire des analyses et des cartes utiles à la prise de décision.
-Je suis actuellement à la recherche d’opportunités pour contribuer à des projets concrets et approfondir mon expertise.
+Technicien supérieur en géomatique et géographe spécialisé en  hydrologie(Université Cheikh Anta Diop de Dakar).J'analyse les phenomenes environnementaux
+notamment les risques hydrologiques et la gestion des ressouces en eau à l'aide d'outils SIG comme QGIS,pour produire des cartes et analyses utiles à
+la prise de  décisions.Je recherche actuellement une opportunité pour mettre en pratique mon expertise sur des projets concrets.
 """)
 st.header("PARCOURS ACADÉMIQUE")
 st.markdown("""
-* MASTER EN HYDROLOGIE A L'Universite Cheikh Anta Diop de Dakar(UCAD)
-* LICENCE EN GEOGRAPHIE
-* BREVET DE TECHNICIEN SUPERIEUR EN GÉOMATIQUE au Centre D'Entrepreneuriat et de Developpement Technique(CEDT LE G15)
-* BACCALAURÉAT
+* Mastere en hydrologie à L'Université Cheikh Anta Diop de Dakar(UCAD)
+* Licence en géographie
+* Brevet technicien en géomatique au Centre d'Entrepreneuriat et de Developpement Technique(CEDT LE G15)
+* Baccalauréat
 """)
 st.subheader("CERTIFICATONS")
 st.markdown("""
@@ -28,9 +27,9 @@ st.markdown("""
 * Suite office
 * Python
 * OTC(Outils de Travail Collaboratif)
-* AUTOCAD
+* Autocad
 * Analyse spatiale
-* TOPOGRAPHIE
+* Topographie
 * Collecte de données avec les outils comme GPS,KBOCOLLECTS
 """)
 with st.sidebar:
